@@ -4,7 +4,7 @@ Welcome to the Open Source Competition Records repository! This repository conta
 
 ## Competitions
 
-### [2024](2024/README.md)
+### [2024](2024/readme.md)
 - Records of participants in open-source competitions for the year 2024.
 
 
