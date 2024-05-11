@@ -30,3 +30,4 @@ This repository contains the records of individuals who participated in various 
 | Dileep Kushwaha     | 4th      | AI    | Yes   | Yes  |
 | Rishabh Tiwari      | 6th      | AI    | Yes   |      |
 | Jonathan Philip     | 6th      | AI    | Yes   | Yes  |
+| Jai Keshav Sharma   | 2nd      | AI    | Yes   | Yes   |     
